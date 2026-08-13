@@ -13,7 +13,7 @@ zgromadzonych w kolekcji **iPBL – polski internet literacki**.
   </a>
 </p>
 
-# Projekt i finansowanie
+### Projekt i finansowanie
 
 Aplikacja iPBL została stworzona z wykorzystaniem danych opracowanych w ramach projektu „Bibliografia polskiej internetowej kultury cyfrowej wraz z katalogiem źródeł i archiwum – uzupełnienie Polskiej Bibliografii Literackiej”, finansowanego przez Narodowy Program Rozwoju Humanistyki (NPRH).
 
@@ -25,7 +25,7 @@ Projekt ten był realizowany przez Pracownię Bibliografii Bieżącej Instytutu 
 
 
 <p align="center">
-  <img src="assets/logos/pbl.png" alt="Polska Bibliografia Literacka" width="220" style="vertical-align:middle;">
+  <img src="assets/logos/pbl.png" alt="Polska Bibliografia Literacka" height="90" style="vertical-align:middle;">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/ibl.png" alt="Instytut Badań Literackich PAN" width="220" style="vertical-align:middle;">
+  <img src="assets/logos/ibl.png" alt="Instytut Badań Literackich PAN" height="90" style="vertical-align:middle;">
 </p>
