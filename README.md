@@ -80,6 +80,6 @@ Aplikacja jest rozwijana przez Zespół ds. przetwarzania danych Pracowni Biblio
 Więcej informacji o projekcie i kolekcji iPBL można znaleźć na stronie PBL:
 https://pbl.ibl.waw.pl/
 
-### Licencja 
+### Licencja
 
 Informacja o licencji aplikacji i kodu źródłowego zostanie dodana po ustaleniu warunków licencjonowania projektu. 
