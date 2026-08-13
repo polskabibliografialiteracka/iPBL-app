@@ -52,7 +52,7 @@ Kod aplikacji znajduje się w tym repozytorium i jest rozwijany z wykorzystaniem
 
 ### Wykorzystanie narzędzi AI
 
-Podczas tworzenia aplikacji wykorzystywano ChatGPT jako narzędzie wspierające pracę programistyczną.
+Podczas tworzenia aplikacji wykorzystywano ChatGPT 5.6 jako narzędzie wspierające pracę programistyczną.
 
 AI było wykorzystywane m.in. do:
 
