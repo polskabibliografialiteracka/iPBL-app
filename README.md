@@ -67,7 +67,7 @@ Wykorzystanie AI miało charakter wspomagający. Decyzje dotyczące funkcjonalno
 Kod wygenerowany lub zmodyfikowany z pomocą AI był sprawdzany i testowany przez członków zespołu przed wykorzystaniem go w aplikacji. Dane bibliograficzne oraz ich opracowanie nie zostały wygenerowane przez AI.
 
 
-### Wersja
+### Wersja 
 
 Aktualna wersja: 0.1
 
