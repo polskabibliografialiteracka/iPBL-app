@@ -69,7 +69,8 @@ Kod wygenerowany lub zmodyfikowany z pomocą AI był sprawdzany i testowany prze
 
 ### Wersja 
 
-Aktualna wersja: 0.1
+Aktualna wersja: 0.2
+Poprzednia wersja: 0.1
 
 Projekt znajduje się na wczesnym etapie rozwoju. Numeracja wersji będzie aktualizowana wraz z wprowadzaniem kolejnych zmian i funkcji.
 
@@ -90,4 +91,4 @@ Kod aplikacji iPBL jest dostępny na licencji MIT.
 
 Dane iPBL są dostępne na licencji Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Licencja CC BY 4.0 dotyczy danych iPBL i nie obejmuje treści zewnętrznych stron internetowych ani innych materiałów stron trzecich, do których odwołują się dane.
+Licencja CC BY 4.0 dotyczy danych iPBL i nie obejmuje treści zewnętrznych stron internetowych ani innych materiałów stron trzecich, do których odwołują się dane. 
