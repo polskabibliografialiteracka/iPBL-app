@@ -70,7 +70,6 @@ Kod wygenerowany lub zmodyfikowany z pomocą AI był sprawdzany i testowany prze
 ### Wersja 
 
 Aktualna wersja: 0.2
-Poprzednia wersja: 0.1
 
 Projekt znajduje się na wczesnym etapie rozwoju. Numeracja wersji będzie aktualizowana wraz z wprowadzaniem kolejnych zmian i funkcji.
 
