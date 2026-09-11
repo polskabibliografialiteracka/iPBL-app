@@ -1,0 +1,1946 @@
+[
+  {
+    "label": "strona teatru",
+    "value": 249
+  },
+  {
+    "label": "blog recenzencki",
+    "value": 207
+  },
+  {
+    "label": "strona wydawnictwa",
+    "value": 155
+  },
+  {
+    "label": "kanał recenzencki (YouTube)",
+    "value": 152
+  },
+  {
+    "label": "strona festiwalu",
+    "value": 148
+  },
+  {
+    "label": "strona organizatora nagrody",
+    "value": 123
+  },
+  {
+    "label": "podcast",
+    "value": 118
+  },
+  {
+    "label": "profil recenzencki (Instagram)",
+    "value": 86
+  },
+  {
+    "label": "profil twórcy (Facebook)",
+    "value": 80
+  },
+  {
+    "label": "słuchowisko",
+    "value": 74
+  },
+  {
+    "label": "strona instytucji",
+    "value": 74
+  },
+  {
+    "label": "strona jednostki uczelnianej",
+    "value": 58
+  },
+  {
+    "label": "czasopismo naukowe drukowane i internetowe",
+    "value": 57
+  },
+  {
+    "label": "profil recenzencki (Facebook)",
+    "value": 57
+  },
+  {
+    "label": "serwis",
+    "value": 54
+  },
+  {
+    "label": "strona nagrody",
+    "value": 53
+  },
+  {
+    "label": "profil festiwalu (Facebook)",
+    "value": 48
+  },
+  {
+    "label": "strona pisarza",
+    "value": 48
+  },
+  {
+    "label": "czasopismo",
+    "value": 47
+  },
+  {
+    "label": "strona muzeum",
+    "value": 46
+  },
+  {
+    "label": "strona fundacji",
+    "value": 44
+  },
+  {
+    "label": "blog",
+    "value": 43
+  },
+  {
+    "label": "profil pisarza (Facebook)",
+    "value": 39
+  },
+  {
+    "label": "portal",
+    "value": 37
+  },
+  {
+    "label": "profil stowarzyszenia (Facebook)",
+    "value": 35
+  },
+  {
+    "label": "blog pisarza",
+    "value": 31
+  },
+  {
+    "label": "strona czasopisma",
+    "value": 31
+  },
+  {
+    "label": "kanał teatru (YouTube)",
+    "value": 30
+  },
+  {
+    "label": "profil wydawnictwa (Facebook)",
+    "value": 30
+  },
+  {
+    "label": "strona pisarki",
+    "value": 30
+  },
+  {
+    "label": "profil pisarki (Facebook)",
+    "value": 29
+  },
+  {
+    "label": "hasło nagrody",
+    "value": 27
+  },
+  {
+    "label": "profil poetki (Instagram)",
+    "value": 27
+  },
+  {
+    "label": "strona projektu",
+    "value": 27
+  },
+  {
+    "label": "strona teatru amatorskiego",
+    "value": 27
+  },
+  {
+    "label": "strona stowarzyszenia",
+    "value": 25
+  },
+  {
+    "label": "podstrona serwisu",
+    "value": 24
+  },
+  {
+    "label": "profil instytucji (Facebook)",
+    "value": 24
+  },
+  {
+    "label": "podstrona portalu",
+    "value": 23
+  },
+  {
+    "label": "raport badawczy",
+    "value": 23
+  },
+  {
+    "label": "kanał czytelniczy (TikTok)",
+    "value": 21
+  },
+  {
+    "label": "profil teatru (Facebook)",
+    "value": 21
+  },
+  {
+    "label": "strona uczelni",
+    "value": 21
+  },
+  {
+    "label": "profil czasopisma (Facebook)",
+    "value": 20
+  },
+  {
+    "label": "profil jednostki uczelnianej (Facebook)",
+    "value": 20
+  },
+  {
+    "label": "strona organizacji",
+    "value": 20
+  },
+  {
+    "label": "profil krytyczki (Facebook)",
+    "value": 19
+  },
+  {
+    "label": "profil pisarki (Instagram)",
+    "value": 19
+  },
+  {
+    "label": "profil popularyzatorski (Facebook)",
+    "value": 19
+  },
+  {
+    "label": "strona czasopisma drukowanego",
+    "value": 19
+  },
+  {
+    "label": "strona czasopisma drukowanego i internetowego",
+    "value": 19
+  },
+  {
+    "label": "profil inicjatywy (Facebook)",
+    "value": 18
+  },
+  {
+    "label": "profil poety (Instagram)",
+    "value": 18
+  },
+  {
+    "label": "strona konkursu",
+    "value": 18
+  },
+  {
+    "label": "audycje o kulturze",
+    "value": 17
+  },
+  {
+    "label": "profil krytyczki (Instagram)",
+    "value": 17
+  },
+  {
+    "label": "profil księgarni (Facebook)",
+    "value": 17
+  },
+  {
+    "label": "słuchowiska",
+    "value": 17
+  },
+  {
+    "label": "profil czytelniczy (Instagram)",
+    "value": 16
+  },
+  {
+    "label": "profil krytyka (Facebook)",
+    "value": 16
+  },
+  {
+    "label": "profil krytyka (Instagram)",
+    "value": 16
+  },
+  {
+    "label": "strona stowarzyrzenia",
+    "value": 16
+  },
+  {
+    "label": "substack",
+    "value": 16
+  },
+  {
+    "label": "platforma VOD",
+    "value": 15
+  },
+  {
+    "label": "profil pisarza (Instagram)",
+    "value": 14
+  },
+  {
+    "label": "profil twórczyni (Facebook)",
+    "value": 14
+  },
+  {
+    "label": "bibliograficzna baza danych",
+    "value": 13
+  },
+  {
+    "label": "kolekcja cyfrowa",
+    "value": 13
+  },
+  {
+    "label": "profil klubu literackiego (Facebook)",
+    "value": 13
+  },
+  {
+    "label": "profil nagrody (Facebook)",
+    "value": 13
+  },
+  {
+    "label": "profil wydarzenia (Facebook)",
+    "value": 13
+  },
+  {
+    "label": "podstrona czasopisma drukowanego i internetowego",
+    "value": 12
+  },
+  {
+    "label": "profil poetki (Facebook)",
+    "value": 12
+  },
+  {
+    "label": "blog pisarki",
+    "value": 11
+  },
+  {
+    "label": "grupa czytelnicza (Facebook)",
+    "value": 11
+  },
+  {
+    "label": "profil fundacji (Facebook)",
+    "value": 11
+  },
+  {
+    "label": "profil muzeum (Facebook)",
+    "value": 11
+  },
+  {
+    "label": "profil twórcy (Instagram)",
+    "value": 11
+  },
+  {
+    "label": "strona inicjatywy",
+    "value": 11
+  },
+  {
+    "label": "strona organizatora festiwalu",
+    "value": 11
+  },
+  {
+    "label": "kanał czytelniczy (Instagram)",
+    "value": 10
+  },
+  {
+    "label": "profil czytelniczki (Instagram)",
+    "value": 10
+  },
+  {
+    "label": "profil wydawnictwa (Instagram)",
+    "value": 10
+  },
+  {
+    "label": "strona jednostki badawczej",
+    "value": 10
+  },
+  {
+    "label": "strona poświęcona pisarzowi",
+    "value": 10
+  },
+  {
+    "label": "twórczość w internecie",
+    "value": 10
+  },
+  {
+    "label": "profil czasopisma drukowanego (Facebook)",
+    "value": 9
+  },
+  {
+    "label": "profil podcastu (Facebook)",
+    "value": 9
+  },
+  {
+    "label": "profil poety (Facebook)",
+    "value": 9
+  },
+  {
+    "label": "publikacja naukowa",
+    "value": 9
+  },
+  {
+    "label": "edycja cyfrowa tekstów literackich",
+    "value": 8
+  },
+  {
+    "label": "kanał czytelniczy (YouTube)",
+    "value": 8
+  },
+  {
+    "label": "raport z badań",
+    "value": 8
+  },
+  {
+    "label": "strona czasopisma internetowego",
+    "value": 8
+  },
+  {
+    "label": "strona organizatora wydarzenia",
+    "value": 8
+  },
+  {
+    "label": "strona projektu naukowego",
+    "value": 8
+  },
+  {
+    "label": "blog krytycznoliteracki",
+    "value": 7
+  },
+  {
+    "label": "profil organizacji (Facebook)",
+    "value": 7
+  },
+  {
+    "label": "strona twórcy",
+    "value": 7
+  },
+  {
+    "label": "strona wydarzenia",
+    "value": 7
+  },
+  {
+    "label": "audycja o literaturze",
+    "value": 6
+  },
+  {
+    "label": "audycje o literaturze",
+    "value": 6
+  },
+  {
+    "label": "blog czytelniczy",
+    "value": 6
+  },
+  {
+    "label": "kanał instytucji (YouTube)",
+    "value": 6
+  },
+  {
+    "label": "kanał wydawnictwa (YouTube)",
+    "value": 6
+  },
+  {
+    "label": "profil badaczki (Facebook)",
+    "value": 6
+  },
+  {
+    "label": "profil czytelniczy (Facebook)",
+    "value": 6
+  },
+  {
+    "label": "profil koła naukowego (Facebook)",
+    "value": 6
+  },
+  {
+    "label": "profil programu (Facebook)",
+    "value": 6
+  },
+  {
+    "label": "profil tłumaczki (Facebook)",
+    "value": 6
+  },
+  {
+    "label": "profil twórczyni (Instagram)",
+    "value": 6
+  },
+  {
+    "label": "strona instytucji kultury",
+    "value": 6
+  },
+  {
+    "label": "strona konwentu",
+    "value": 6
+  },
+  {
+    "label": "audycja o filmie",
+    "value": 5
+  },
+  {
+    "label": "audycja o kulturze",
+    "value": 5
+  },
+  {
+    "label": "blog poety",
+    "value": 5
+  },
+  {
+    "label": "cyfrowy słownik biograficzny",
+    "value": 5
+  },
+  {
+    "label": "kanał jednostki uczelnianej (YouTube)",
+    "value": 5
+  },
+  {
+    "label": "kanał z audiobookami (YouTube)",
+    "value": 5
+  },
+  {
+    "label": "monografie w otwartym dostępie",
+    "value": 5
+  },
+  {
+    "label": "profil badacza (Facebook)",
+    "value": 5
+  },
+  {
+    "label": "profil badacza (Instagram)",
+    "value": 5
+  },
+  {
+    "label": "profil czasopisma (Instagram)",
+    "value": 5
+  },
+  {
+    "label": "strona czasopisma naukowego",
+    "value": 5
+  },
+  {
+    "label": "strona księgarni",
+    "value": 5
+  },
+  {
+    "label": "strona organizatora konkursu",
+    "value": 5
+  },
+  {
+    "label": "strona plebiscytu",
+    "value": 5
+  },
+  {
+    "label": "antologia w otwartym dostępie",
+    "value": 4
+  },
+  {
+    "label": "blog badacza",
+    "value": 4
+  },
+  {
+    "label": "korpus tekstów",
+    "value": 4
+  },
+  {
+    "label": "profil czasopisma drukowanego i internetowego (Facebook)",
+    "value": 4
+  },
+  {
+    "label": "profil grupy teatralnej (Facebook)",
+    "value": 4
+  },
+  {
+    "label": "profil kolektywu twórczego (Facebook)",
+    "value": 4
+  },
+  {
+    "label": "profil popularyzatorski (Instagram)",
+    "value": 4
+  },
+  {
+    "label": "profil poświęcony poecie (Facebook)",
+    "value": 4
+  },
+  {
+    "label": "profil serwisu (Facebook)",
+    "value": 4
+  },
+  {
+    "label": "profil tłumacza (Facebook)",
+    "value": 4
+  },
+  {
+    "label": "profil tłumaczki (Instagram)",
+    "value": 4
+  },
+  {
+    "label": "strona audycji radiowej",
+    "value": 4
+  },
+  {
+    "label": "strona grupy teatralnej",
+    "value": 4
+  },
+  {
+    "label": "strona organiatora konkursu",
+    "value": 4
+  },
+  {
+    "label": "strona podcastu",
+    "value": 4
+  },
+  {
+    "label": "audycje",
+    "value": 3
+  },
+  {
+    "label": "baza danych",
+    "value": 3
+  },
+  {
+    "label": "blog literacki",
+    "value": 3
+  },
+  {
+    "label": "hasło organizacji",
+    "value": 3
+  },
+  {
+    "label": "kanał biblioteki (YouTube)",
+    "value": 3
+  },
+  {
+    "label": "kanał pisarki (TikTok)",
+    "value": 3
+  },
+  {
+    "label": "leksykon",
+    "value": 3
+  },
+  {
+    "label": "podstrona festiwalu",
+    "value": 3
+  },
+  {
+    "label": "portal z twórczością amatorską",
+    "value": 3
+  },
+  {
+    "label": "profil czytelnika (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil dziennikarki (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil festiwalu (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil grupy czytelniczej (Facebook)",
+    "value": 3
+  },
+  {
+    "label": "profil grupy literackiej (Facebook)",
+    "value": 3
+  },
+  {
+    "label": "profil ilustratorki (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil kolektywu twórczego (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil krytycznoliteracki (Facebook)",
+    "value": 3
+  },
+  {
+    "label": "profil księgarni (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil podcastu (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil programu (Instagram)",
+    "value": 3
+  },
+  {
+    "label": "profil projektu (Facebook)",
+    "value": 3
+  },
+  {
+    "label": "profil serii wydawniczej (Facebook)",
+    "value": 3
+  },
+  {
+    "label": "repozytorium naukowe",
+    "value": 3
+  },
+  {
+    "label": "strona archiwum",
+    "value": 3
+  },
+  {
+    "label": "strona fundatora stypendium",
+    "value": 3
+  },
+  {
+    "label": "strona krytyka",
+    "value": 3
+  },
+  {
+    "label": "strona organiatora konferencji",
+    "value": 3
+  },
+  {
+    "label": "strona poetki",
+    "value": 3
+  },
+  {
+    "label": "strona programu",
+    "value": 3
+  },
+  {
+    "label": "strona stowarzyszenia twórczego",
+    "value": 3
+  },
+  {
+    "label": "twórczość literacka (kamishibai)",
+    "value": 3
+  },
+  {
+    "label": "zin",
+    "value": 3
+  },
+  {
+    "label": "audycje o filmie",
+    "value": 2
+  },
+  {
+    "label": "audycje o teatrze",
+    "value": 2
+  },
+  {
+    "label": "biblioteka zinów",
+    "value": 2
+  },
+  {
+    "label": "biograficzna baza danych",
+    "value": 2
+  },
+  {
+    "label": "blog ilustratorki",
+    "value": 2
+  },
+  {
+    "label": "cyfrowa kolekcja bibliograficzna",
+    "value": 2
+  },
+  {
+    "label": "edycja cyfrowa",
+    "value": 2
+  },
+  {
+    "label": "hasło organizatora nagrody",
+    "value": 2
+  },
+  {
+    "label": "kanał inicjatywy (YouTube)",
+    "value": 2
+  },
+  {
+    "label": "kanał krytyczki (YouTube)",
+    "value": 2
+  },
+  {
+    "label": "kanał krytyka (YouTube)",
+    "value": 2
+  },
+  {
+    "label": "kanał księgarni (YouTube)",
+    "value": 2
+  },
+  {
+    "label": "kanał recenzencki (TikTok)",
+    "value": 2
+  },
+  {
+    "label": "katalog monografii w otwartym dostępie",
+    "value": 2
+  },
+  {
+    "label": "konwencja",
+    "value": 2
+  },
+  {
+    "label": "monografia cyfrowa",
+    "value": 2
+  },
+  {
+    "label": "pełnotekstowa baza utworów literackich",
+    "value": 2
+  },
+  {
+    "label": "pełnotekstowa wersja tomu poetyckiego; twórczość w internecie",
+    "value": 2
+  },
+  {
+    "label": "podstrona cyklu wydarzeń kulturalnych",
+    "value": 2
+  },
+  {
+    "label": "podstrona czasopisma drukowanego",
+    "value": 2
+  },
+  {
+    "label": "podstrona czasopisma z recenzjami",
+    "value": 2
+  },
+  {
+    "label": "podstrona konkursu",
+    "value": 2
+  },
+  {
+    "label": "podstrona nagrody",
+    "value": 2
+  },
+  {
+    "label": "podstrona potralu",
+    "value": 2
+  },
+  {
+    "label": "podstrona radia",
+    "value": 2
+  },
+  {
+    "label": "profil badaczki (Instagram)",
+    "value": 2
+  },
+  {
+    "label": "profil czasopisma internetowego (Facebook)",
+    "value": 2
+  },
+  {
+    "label": "profil inicjatywy (Instagram)",
+    "value": 2
+  },
+  {
+    "label": "profil konkursu (Facebook)",
+    "value": 2
+  },
+  {
+    "label": "profil nagrody (Instagram)",
+    "value": 2
+  },
+  {
+    "label": "profil organizatora (Facebook)",
+    "value": 2
+  },
+  {
+    "label": "profil pisarza i recenzenta (Facebook)",
+    "value": 2
+  },
+  {
+    "label": "profil projektu naukowego (Facebook)",
+    "value": 2
+  },
+  {
+    "label": "profil wydarzenia (Instagram)",
+    "value": 2
+  },
+  {
+    "label": "profil z twórczością (Facebook)",
+    "value": 2
+  },
+  {
+    "label": "serwis subskrypcyjny audiobooków i podcastów",
+    "value": 2
+  },
+  {
+    "label": "strona kampanii",
+    "value": 2
+  },
+  {
+    "label": "strona klubu literackiego",
+    "value": 2
+  },
+  {
+    "label": "strona kolektywu wydawniczego",
+    "value": 2
+  },
+  {
+    "label": "strona organizatora",
+    "value": 2
+  },
+  {
+    "label": "strona poświęcona reżyserowi",
+    "value": 2
+  },
+  {
+    "label": "strona programu promocji literatury",
+    "value": 2
+  },
+  {
+    "label": "strona programu telewizyjnego",
+    "value": 2
+  },
+  {
+    "label": "strona recenzencka",
+    "value": 2
+  },
+  {
+    "label": "strona warsztatów",
+    "value": 2
+  },
+  {
+    "label": "szkoły teatralne",
+    "value": 2
+  },
+  {
+    "label": "antologia online",
+    "value": 1
+  },
+  {
+    "label": "archiwum cyfrowe",
+    "value": 1
+  },
+  {
+    "label": "archiwum cyfrowe badacza",
+    "value": 1
+  },
+  {
+    "label": "archiwum cyfrowe projektu badawczego",
+    "value": 1
+  },
+  {
+    "label": "archiwum cyfrowe teatru",
+    "value": 1
+  },
+  {
+    "label": "archiwum instytutu",
+    "value": 1
+  },
+  {
+    "label": "archiwum video",
+    "value": 1
+  },
+  {
+    "label": "archiwum wycinków",
+    "value": 1
+  },
+  {
+    "label": "audiobook książki poetyckiej",
+    "value": 1
+  },
+  {
+    "label": "audycje o nauce",
+    "value": 1
+  },
+  {
+    "label": "baza filmowa",
+    "value": 1
+  },
+  {
+    "label": "baza konkursów",
+    "value": 1
+  },
+  {
+    "label": "baza stypendiów",
+    "value": 1
+  },
+  {
+    "label": "baza teatrów niezależnych",
+    "value": 1
+  },
+  {
+    "label": "biblioteka cyfrowa",
+    "value": 1
+  },
+  {
+    "label": "blog aktorki",
+    "value": 1
+  },
+  {
+    "label": "blog bibliotekarski",
+    "value": 1
+  },
+  {
+    "label": "blog czasopismo",
+    "value": 1
+  },
+  {
+    "label": "blog inicjatywy popularyzatorskiej",
+    "value": 1
+  },
+  {
+    "label": "blog instytucji",
+    "value": 1
+  },
+  {
+    "label": "blog naukowy",
+    "value": 1
+  },
+  {
+    "label": "blog poetki",
+    "value": 1
+  },
+  {
+    "label": "blog stowarzyszenia",
+    "value": 1
+  },
+  {
+    "label": "blog teatru",
+    "value": 1
+  },
+  {
+    "label": "blog twórczyni",
+    "value": 1
+  },
+  {
+    "label": "blog z biogramami",
+    "value": 1
+  },
+  {
+    "label": "cykl recenzji",
+    "value": 1
+  },
+  {
+    "label": "czasopisma",
+    "value": 1
+  },
+  {
+    "label": "czasopismo elektroniczne",
+    "value": 1
+  },
+  {
+    "label": "czasopismo internetowe",
+    "value": 1
+  },
+  {
+    "label": "czasopismo w otwartym dostępie",
+    "value": 1
+  },
+  {
+    "label": "encyklopedia online",
+    "value": 1
+  },
+  {
+    "label": "fanzin",
+    "value": 1
+  },
+  {
+    "label": "forum",
+    "value": 1
+  },
+  {
+    "label": "forum i wiersze",
+    "value": 1
+  },
+  {
+    "label": "forum, twórczość w internecie",
+    "value": 1
+  },
+  {
+    "label": "grupa publiczna (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "grupa tłumaczy (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "hasło wydarzenia",
+    "value": 1
+  },
+  {
+    "label": "hipertekst",
+    "value": 1
+  },
+  {
+    "label": "kalendarz życia, twórczości i recepcji pisarza",
+    "value": 1
+  },
+  {
+    "label": "kanał autorki (TikTok)",
+    "value": 1
+  },
+  {
+    "label": "kanał cyklu wydarzeń (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał cyklu wykładów (Spotify)",
+    "value": 1
+  },
+  {
+    "label": "kanał czasopismo (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał czytelniczek (Youtube)",
+    "value": 1
+  },
+  {
+    "label": "kanał fundacji (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał influencera książkowego (TikTok)",
+    "value": 1
+  },
+  {
+    "label": "kanał influencera książkowego (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał jednostki badawczej (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał jednostki uniwersyteckiej (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał kanał fundacji (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał kanał instytucji (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał kanał wydawnictwa (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał krytyczek (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał krytycznoliteracki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "kanał krytyków (Youtube)",
+    "value": 1
+  },
+  {
+    "label": "kanał księgarni (Youtube)",
+    "value": 1
+  },
+  {
+    "label": "kanał literacki (TikTok)",
+    "value": 1
+  },
+  {
+    "label": "kanał organizacji (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał popularyzatorki i badaczki (TikTok)",
+    "value": 1
+  },
+  {
+    "label": "kanał popularyzatorski (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał projektu naukowego (Vimeo)",
+    "value": 1
+  },
+  {
+    "label": "kanał projektu naukowego (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał rozgłośni radiowej (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał stowarzyszenia (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał teatralny (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał twórczyni (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "kanał z autorskimi słuchowiskami / twórczość w internecie (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "katalog",
+    "value": 1
+  },
+  {
+    "label": "kolekcja fotografii archiwalnych ze zbiorów pisarza",
+    "value": 1
+  },
+  {
+    "label": "kolekcja poświęcona pisarzowi",
+    "value": 1
+  },
+  {
+    "label": "lista kanałów na komunikatorze Telegram",
+    "value": 1
+  },
+  {
+    "label": "magazyn kulturalny internetowej perfumerii",
+    "value": 1
+  },
+  {
+    "label": "mapa cyfrowa",
+    "value": 1
+  },
+  {
+    "label": "pełnotekstowa wersja tomu poetyckiego, twórczość w internecie",
+    "value": 1
+  },
+  {
+    "label": "platforma społeczności",
+    "value": 1
+  },
+  {
+    "label": "platforma VOD programu telewizyjnego",
+    "value": 1
+  },
+  {
+    "label": "platforma z audiobookami",
+    "value": 1
+  },
+  {
+    "label": "platfroma z audiobookami",
+    "value": 1
+  },
+  {
+    "label": "platfroma z ebookami, audiobookami",
+    "value": 1
+  },
+  {
+    "label": "plebiscyt",
+    "value": 1
+  },
+  {
+    "label": "plebiscyt czytelniczy",
+    "value": 1
+  },
+  {
+    "label": "podcast pisarki",
+    "value": 1
+  },
+  {
+    "label": "podstrona audycji",
+    "value": 1
+  },
+  {
+    "label": "podstrona audycji w radiu internetowym",
+    "value": 1
+  },
+  {
+    "label": "podstrona cyklu krytycznoliterackiego",
+    "value": 1
+  },
+  {
+    "label": "podstrona czasopisma (na stronie wydawnictwa)",
+    "value": 1
+  },
+  {
+    "label": "podstrona dodatku do czasopismo",
+    "value": 1
+  },
+  {
+    "label": "podstrona konferencji",
+    "value": 1
+  },
+  {
+    "label": "podstrona kongresu",
+    "value": 1
+  },
+  {
+    "label": "podstrona programu rezydencji",
+    "value": 1
+  },
+  {
+    "label": "podstrona projektu naukowego",
+    "value": 1
+  },
+  {
+    "label": "podstrona projektu naukowo-kulturalnego",
+    "value": 1
+  },
+  {
+    "label": "podstrona strony instytycji",
+    "value": 1
+  },
+  {
+    "label": "podstrona wydarzenia",
+    "value": 1
+  },
+  {
+    "label": "podstrona, blog",
+    "value": 1
+  },
+  {
+    "label": "portal czytelniczy",
+    "value": 1
+  },
+  {
+    "label": "portal publicystyczno-kulturalny",
+    "value": 1
+  },
+  {
+    "label": "portal recenzencki",
+    "value": 1
+  },
+  {
+    "label": "portal teatralny",
+    "value": 1
+  },
+  {
+    "label": "portal, baza konferencji",
+    "value": 1
+  },
+  {
+    "label": "portal, strona czasopisma drukowanego",
+    "value": 1
+  },
+  {
+    "label": "profil autorki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil biblioteki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil bloga (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil cyklu wydarzeń (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil cyklu wydarzeń literackich (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil czasopismo drukowanega i klubu literackiego (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil czytelniczek (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil czytelniczki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil czytelniczki (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "profil czytelnika (YouTube)",
+    "value": 1
+  },
+  {
+    "label": "profil dla bibliotekarzy (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil dodatku do czasopismo (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil dodatku do czasopismo (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil domu pracy twórczej (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil działu kultury w czasopiśmie drukowanym i internetowym (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil dziennikarki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil fanklubu (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil fundacji (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil fundacji i wydawnictwa (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil fundacji literackiej (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil grupy (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil grupy czytelników czasopismo (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil grupy poetyckiej (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil grupy poetyckiej (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil grupy twórczej (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil ilustratora (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil ilustratorki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil influencera książkowego (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil instytucji (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil jednostki uczelnianej (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil kampanii (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil klubu książki (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil klubu książkowego (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil kolektywu (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil koła naukowego (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil krytyka i twórcy (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil książki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil księgarza (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil kulturalny (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil magazynu (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil organizatora nagrody/konkursu (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil pisarski (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil poet* (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil poet* (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil poświęcona autorowi (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil poświęcony ilustratorom (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil poświęcony pisarzowi (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil poświęcony poetce (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil pracowni (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil programu telewizyjnego (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil programu telewizyjnego (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil projektu naukowego (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil recenzecki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil recenzencki (X)",
+    "value": 1
+  },
+  {
+    "label": "profil redaktorki (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil reżysera (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil reżyserki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil satyryczny (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil specjalizacji uniwersyteckiej (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil spółki autorskiej (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil stowarzyszenia (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil targów książki w Gdyni (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil tłumaczki i badaczki (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil twórc* (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil wydawcy (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil wydawczyni (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil z memami (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil z newsami (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil zespołu badawczego (facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil zina (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "profil zinu (Instagram)",
+    "value": 1
+  },
+  {
+    "label": "profil, twórczośc w internecie (Facebook)",
+    "value": 1
+  },
+  {
+    "label": "publiakcja naukowa",
+    "value": 1
+  },
+  {
+    "label": "publikacja online",
+    "value": 1
+  },
+  {
+    "label": "radio studenckie",
+    "value": 1
+  },
+  {
+    "label": "repozytorium",
+    "value": 1
+  },
+  {
+    "label": "repozytorium pełnych tekstów utworów",
+    "value": 1
+  },
+  {
+    "label": "serwis / blog",
+    "value": 1
+  },
+  {
+    "label": "serwis subskrypcyjny ebooków, audiobooków",
+    "value": 1
+  },
+  {
+    "label": "serwis subskrypcyjny ebooków, audiobooków i słuchowisk",
+    "value": 1
+  },
+  {
+    "label": "słownik cyfrowy",
+    "value": 1
+  },
+  {
+    "label": "słownik online",
+    "value": 1
+  },
+  {
+    "label": "strona agencji autorskiej",
+    "value": 1
+  },
+  {
+    "label": "strona agencji i biblioteka tekstów",
+    "value": 1
+  },
+  {
+    "label": "strona agencji kultury",
+    "value": 1
+  },
+  {
+    "label": "strona audycji",
+    "value": 1
+  },
+  {
+    "label": "strona badacza",
+    "value": 1
+  },
+  {
+    "label": "strona biblioteki",
+    "value": 1
+  },
+  {
+    "label": "strona centrum literackiego",
+    "value": 1
+  },
+  {
+    "label": "strona czasopisma i klubu literackiego",
+    "value": 1
+  },
+  {
+    "label": "strona czasopisma internetowego i biblioteka cyfrowa",
+    "value": 1
+  },
+  {
+    "label": "strona dodatku do czasopisma",
+    "value": 1
+  },
+  {
+    "label": "strona festiwalu i fundacji",
+    "value": 1
+  },
+  {
+    "label": "strona festiwalu i nagrody",
+    "value": 1
+  },
+  {
+    "label": "strona fundacji i nagrody",
+    "value": 1
+  },
+  {
+    "label": "strona fundacji literackiej",
+    "value": 1
+  },
+  {
+    "label": "strona grupy literackiej",
+    "value": 1
+  },
+  {
+    "label": "strona ilustratorki",
+    "value": 1
+  },
+  {
+    "label": "strona inicjatywy wydawnictw",
+    "value": 1
+  },
+  {
+    "label": "strona instytucji badawczej",
+    "value": 1
+  },
+  {
+    "label": "strona instytucji biorącej udział w programie",
+    "value": 1
+  },
+  {
+    "label": "strona instytucji i archiwum",
+    "value": 1
+  },
+  {
+    "label": "strona instytutu uczelnianego",
+    "value": 1
+  },
+  {
+    "label": "strona internetowa",
+    "value": 1
+  },
+  {
+    "label": "strona internetowa inicjatywy",
+    "value": 1
+  },
+  {
+    "label": "strona jubileuszu",
+    "value": 1
+  },
+  {
+    "label": "strona kabaretu",
+    "value": 1
+  },
+  {
+    "label": "strona kanału telewizyjnego",
+    "value": 1
+  },
+  {
+    "label": "strona kierunku uniwersyteckiego",
+    "value": 1
+  },
+  {
+    "label": "strona klubu książki",
+    "value": 1
+  },
+  {
+    "label": "strona klubu książkowego",
+    "value": 1
+  },
+  {
+    "label": "strona magazinu",
+    "value": 1
+  },
+  {
+    "label": "strona miasta biorącego udział w programie",
+    "value": 1
+  },
+  {
+    "label": "strona muzuem cyfrowego",
+    "value": 1
+  },
+  {
+    "label": "strona nagrody literackiej",
+    "value": 1
+  },
+  {
+    "label": "strona organizatora konferencji",
+    "value": 1
+  },
+  {
+    "label": "strona organizatora wydarzeń",
+    "value": 1
+  },
+  {
+    "label": "strona poety",
+    "value": 1
+  },
+  {
+    "label": "strona poświęcona autorowi",
+    "value": 1
+  },
+  {
+    "label": "strona poświęcona poecie",
+    "value": 1
+  },
+  {
+    "label": "strona poświęcona twórczyni",
+    "value": 1
+  },
+  {
+    "label": "strona pracowni teatralnej",
+    "value": 1
+  },
+  {
+    "label": "strona programu translatorskiego",
+    "value": 1
+  },
+  {
+    "label": "strona promująca czytelnictwo",
+    "value": 1
+  },
+  {
+    "label": "strona radia",
+    "value": 1
+  },
+  {
+    "label": "strona radia internetowego",
+    "value": 1
+  },
+  {
+    "label": "strona redaktorki",
+    "value": 1
+  },
+  {
+    "label": "strona repozytorium",
+    "value": 1
+  },
+  {
+    "label": "strona rezydencji",
+    "value": 1
+  },
+  {
+    "label": "strona rezydencji artystycznych",
+    "value": 1
+  },
+  {
+    "label": "strona społeczności twórczej",
+    "value": 1
+  },
+  {
+    "label": "strona studia",
+    "value": 1
+  },
+  {
+    "label": "strona studia aktorskiego",
+    "value": 1
+  },
+  {
+    "label": "strona stypendium",
+    "value": 1
+  },
+  {
+    "label": "strona teatralna",
+    "value": 1
+  },
+  {
+    "label": "strona teatru autorskiego",
+    "value": 1
+  },
+  {
+    "label": "strona teatru i fundacji",
+    "value": 1
+  },
+  {
+    "label": "strona teatru telewizji",
+    "value": 1
+  },
+  {
+    "label": "strona twórcy, twórczość w internecie",
+    "value": 1
+  },
+  {
+    "label": "strona twórczyni",
+    "value": 1
+  },
+  {
+    "label": "strona uczelnianej",
+    "value": 1
+  },
+  {
+    "label": "strona współorganizatora",
+    "value": 1
+  },
+  {
+    "label": "strona wydawnictwa i czasopismo",
+    "value": 1
+  },
+  {
+    "label": "strona wydawnictwa i księgarni",
+    "value": 1
+  },
+  {
+    "label": "strona wydawnictwa, księgarni, organizatora",
+    "value": 1
+  },
+  {
+    "label": "strona wydziału",
+    "value": 1
+  },
+  {
+    "label": "strona wydziału uczelni",
+    "value": 1
+  },
+  {
+    "label": "strona wytwórni filmów",
+    "value": 1
+  },
+  {
+    "label": "strona zespołu badawczego",
+    "value": 1
+  },
+  {
+    "label": "stypendium",
+    "value": 1
+  },
+  {
+    "label": "substack / twórczość w internecie",
+    "value": 1
+  },
+  {
+    "label": "substack czytelniczki",
+    "value": 1
+  },
+  {
+    "label": "substack inicjatywy związanej z nagrodą",
+    "value": 1
+  },
+  {
+    "label": "substack krytyka",
+    "value": 1
+  },
+  {
+    "label": "substack magazynu",
+    "value": 1
+  },
+  {
+    "label": "substack poety",
+    "value": 1
+  },
+  {
+    "label": "substack recenzencki",
+    "value": 1
+  },
+  {
+    "label": "substack twórcy",
+    "value": 1
+  },
+  {
+    "label": "tom poetycki w wolnym dostępie",
+    "value": 1
+  },
+  {
+    "label": "tom w pdf (twórczość w internecie)",
+    "value": 1
+  },
+  {
+    "label": "wirtualne archiwum",
+    "value": 1
+  },
+  {
+    "label": "wydawnictwo",
+    "value": 1
+  },
+  {
+    "label": "wyszukiwarka wydarzeń kulturalnych",
+    "value": 1
+  }
+]

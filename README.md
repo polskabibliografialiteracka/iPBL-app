@@ -1,93 +1,96 @@
-<p align="center">
-  <img src="assets/logos/ipbl.png" alt="iPBL – Polska Bibliografia Literacka" width="300">
-</p>
+# iPBL app — wersja modułowa v0.3
 
-# iPBL – aplikacja do analizy polskiego internetu literackiego
+To jest **bezpiecznie rozdzielona wersja aktualnej aplikacji iPBL**. Jej wygląd i logika zostały zachowane, ale ciężkie dane i zasoby nie siedzą już w jednym pliku HTML.
 
-Aplikacja iPBL służy do analizy i wizualizacji danych bibliograficznych zgromadzonych w kolekcji iPBL – polski internet literacki.
+## Najważniejszy podział
 
-Aplikacja: https://polskabibliografialiteracka.github.io/iPBL-app/
+```text
+iPBL_app_modular_v0.3/
+├── index.html                 # mały, czytelny punkt wejścia
+├── css/
+│   └── style.css              # cały wygląd aplikacji
+├── js/
+│   ├── loader.js              # ładuje dane i uruchamia aplikację
+│   ├── app.bundle.js          # skompilowana logika obecnej aplikacji
+│   ├── tooltip.js             # dymki informacyjne
+│   └── analytics.js           # Google Analytics
+├── data/
+│   ├── sources.json           # 203 źródła z rekordami bibliograficznymi
+│   ├── catalog.json           # 4003 pozycje Wykazu internetowych źródeł literackich
+│   ├── catalog-types.json     # dane do filtrów/statystyk typów
+│   ├── catalog-fields.json    # dane do filtrów/statystyk dziedzin
+│   └── records.zip            # właściwe rekordy BibTeX używane przez aplikację
+├── assets/
+│   ├── iPBL_logo.png
+│   ├── ibl_pan_logo.png
+│   ├── pbl_logo.png
+│   └── nprh_logo.png
+├── tools/
+│   ├── start_local.bat        # uruchomienie lokalne w Windows
+│   ├── start_local.sh         # uruchomienie lokalne Linux/macOS
+│   └── build_standalone.py    # buduje ponownie wersję jednoplikową
+└── release/
+    └── ...                    # tu powstaje samodzielny HTML
+```
 
-Repozytorium: https://github.com/polskabibliografialiteracka/iPBL-app
+## Co zmieniono względem jednego HTML-a?
 
-### Projekt i finansowanie
+1. Metadane źródeł i katalog 4000 źródeł zostały wyjęte z kodu JavaScript do osobnych plików JSON.
+2. Paczka z rekordami BibTeX została wyjęta z kodu do `data/records.zip`.
+3. CSS został wyjęty do `css/style.css`.
+4. Logotypy zostały wyjęte z base64 do `assets/`.
+5. Dymki informacyjne i Analytics są osobnymi skryptami.
+6. `index.html` jest mały i można go przeczytać bez przedzierania się przez kilkanaście megabajtów kodu.
 
-Aplikacja iPBL została stworzona z wykorzystaniem danych opracowanych w ramach projektu „Bibliografia polskiej internetowej kultury cyfrowej wraz z katalogiem źródeł i archiwum – uzupełnienie Polskiej Bibliografii Literackiej”, finansowanego przez Narodowy Program Rozwoju Humanistyki (NPRH).
+## Ważne: `app.bundle.js`
 
-Projekt ten był realizowany przez Pracownię Bibliografii Bieżącej Instytutu Badań Literackich PAN, w latach 2023-2026. Więcej informacji na temat projektu można znaleźć w sekcji aktualności strony [Polskiej Bibliografii Literackiej (PBL)](https://pbl.ibl.waw.pl/).
+`js/app.bundle.js` nadal jest **skompilowanym kodem obecnej aplikacji React**. Rozdzielenie go na prawdziwe moduły typu `search.js`, `analysis.js`, `records.js` i `export.js` wymaga osobnego refaktoringu kodu źródłowego. Celowo nie robiłem tego automatycznie w tej paczce, aby nie popsuć działającej wersji aplikacji.
 
-### O aplikacji 
+To jest więc pierwszy, bezpieczny etap: **dane, rekordy, wygląd, zasoby i dodatki są już rozdzielone**, a działająca logika pozostaje nietknięta.
 
-Kolekcja iPBL gromadzi dane dotyczące polskiego internetu literackiego, w tym publikacji, autorów, źródeł i innych informacji bibliograficznych.
+## Uruchamianie
 
-Celem aplikacji jest udostępnienie wybranych danych w formie interaktywnej i ułatwienie ich eksploracji osobom zainteresowanym polską kulturą literacką i cyfrową.
+### GitHub Pages
 
-W pierwszej wersji użytkownik może korzystać z podstawowych analiz danych bibliograficznych, m.in. dotyczących:
+Cały katalog można umieścić w repozytorium. `index.html` pozostaje w katalogu głównym i GitHub Pages obsłuży go bez dodatkowej konfiguracji.
 
-- autorów,
-- publikacji,
-- źródeł internetowych,
-- chronologii danych,
-- wybranych charakterystyk zgromadzonego materiału.
+### Lokalnie w Windows
 
+Uruchom:
 
-### Dane
+```text
+tools\start_local.bat
+```
 
-Dane prezentowane w aplikacji są wynikiem prac dokumentacyjnych i bibliograficznych prowadzonych przez zespół Polskiej Bibliografii Literackiej. Aplikacja nie zastępuje procesu opracowania bibliograficznego – stanowi narzędzie służące do dalszej analizy i prezentacji zgromadzonych danych.
+Powinna otworzyć się strona `http://localhost:8000`.
 
-Dane zgromadzone w kolekcji iPBL można pobrać ze strony Europejskiej Bibliografii Literackiej: https://literarybibliography.eu/en/projects/ipbl
+Nie należy uruchamiać wersji modułowej przez samo dwukrotne kliknięcie `index.html`, ponieważ przeglądarki blokują lokalne `fetch()` do plików JSON/ZIP.
 
+## Jak zrobić ponownie wersję „jeden plik”?
 
-### Technologie
+W katalogu aplikacji uruchom:
 
-Pierwsza wersja aplikacji została przygotowana jako statyczna aplikacja internetowa wykorzystująca:
+```bash
+python tools/build_standalone.py
+```
 
-- HTML,
-- CSS,
-- JavaScript,
-- Git i GitHub,
-- GitHub Pages.
+Skrypt utworzy:
 
-Kod aplikacji znajduje się w tym repozytorium i jest rozwijany z wykorzystaniem systemu kontroli wersji Git.
+```text
+release/iPBL_app_standalone.html
+```
 
-### Wykorzystanie narzędzi AI
+Ta wersja ponownie zawiera dane, ZIP i logotypy w środku i może być otwierana jako pojedynczy plik HTML.
 
-Podczas tworzenia aplikacji wykorzystywano ChatGPT 5.6 jako narzędzie wspierające pracę programistyczną.
+## Co edytować najczęściej?
 
-AI było wykorzystywane m.in. do:
+- zmiana wyglądu → `css/style.css`
+- podmiana danych źródeł → `data/sources.json`
+- podmiana katalogu 4000 → `data/catalog.json`
+- podmiana rekordów → `data/records.zip`
+- dymki → `js/tooltip.js`
+- logotypy → `assets/`
 
-- konsultowania rozwiązań programistycznych,
-- przygotowywania i modyfikowania fragmentów kodu,
-- wyjaśniania błędów i proponowania sposobów ich rozwiązania,
-- porządkowania struktury kodu,
-- wspierania testowania i debugowania.
+## Kolejny sensowny etap
 
-Wykorzystanie AI miało charakter wspomagający. Decyzje dotyczące funkcjonalności aplikacji, struktury rozwiązania, sposobu prezentacji danych oraz treści podejmował zespół projektowy.
-
-Kod wygenerowany lub zmodyfikowany z pomocą AI był sprawdzany i testowany przez członków zespołu przed wykorzystaniem go w aplikacji. Dane bibliograficzne oraz ich opracowanie nie zostały wygenerowane przez AI.
-
-
-### Wersja 
-
-Aktualna wersja: 0.3
-
-Projekt znajduje się na wczesnym etapie rozwoju. Numeracja wersji będzie aktualizowana wraz z wprowadzaniem kolejnych zmian i funkcji.
-
-### Zespół
-
-Aplikacja jest rozwijana przez Zespół ds. przetwarzania danych Pracowni Bibliografii Bieżącej IBL PAN. 
-
-Więcej informacji o projekcie i kolekcji iPBL można znaleźć na stronie PBL:
-https://pbl.ibl.waw.pl/
-
-### Licencja
-
-#### Kod aplikacji
-
-Kod aplikacji iPBL jest dostępny na licencji MIT.
-
-#### Dane
-
-Dane iPBL są dostępne na licencji Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-Licencja CC BY 4.0 dotyczy danych iPBL i nie obejmuje treści zewnętrznych stron internetowych ani innych materiałów stron trzecich, do których odwołują się dane. 
+Następnym krokiem może być przebudowanie `app.bundle.js` do czytelnego katalogu źródłowego, np. `src/search.js`, `src/records.js`, `src/analysis.js`, `src/export.js`, `src/ui.js`. To już warto robić świadomie i testować funkcję po funkcji, zamiast automatycznie rozcinać zminifikowany bundle.

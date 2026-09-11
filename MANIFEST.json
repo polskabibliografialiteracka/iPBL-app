@@ -1,0 +1,93 @@
+{
+  "source_html": "iPBL_app_v0.3_search_hint(1).html",
+  "source_size_bytes": 15644239,
+  "modular_files": {
+    "README.md": {
+      "bytes": 4002,
+      "sha256": "a909b816e387dd38fe4782d521c2fa46065311a37b77df3df096150805efc667"
+    },
+    "assets/iPBL_logo.png": {
+      "bytes": 11547,
+      "sha256": "8e716d0e293261044022e0f4d7b3be0c5eab00f8ad6d189b3ec0351cfde83388"
+    },
+    "assets/ibl_pan_logo.png": {
+      "bytes": 14659,
+      "sha256": "88f183fcdc4fb43c75b5fed0f575ac54ce4b4191db9c4cd75643f48099b85805"
+    },
+    "assets/nprh_logo.png": {
+      "bytes": 12588,
+      "sha256": "72f16fac0a747d2aea0d82ac52dadcecb8fe35bf2972a138a04dbea7697d8d86"
+    },
+    "assets/pbl_logo.png": {
+      "bytes": 3974,
+      "sha256": "d7e8f31cae4805ef9ea3af8999e8872cc0e3b9863282a1968e30c09031aaa9e2"
+    },
+    "css/style.css": {
+      "bytes": 27742,
+      "sha256": "37e9add5d9231cd478a18cae052155045fd3059d78a9904e59b175a6c4944765"
+    },
+    "data/catalog-fields.json": {
+      "bytes": 3774,
+      "sha256": "088753bb74421f4389ad1a246d90d20af8aad7c408645c1bbfd1432fc02be382"
+    },
+    "data/catalog-types.json": {
+      "bytes": 32786,
+      "sha256": "f323aeb757f0e2b73d9ef2d4100eafa64f40db1cfd14497bce0b09ce7b9f8b99"
+    },
+    "data/catalog.json": {
+      "bytes": 687709,
+      "sha256": "51142122a5a3ef9d5ffeb4a59abe62ddd22678f9bf84d3edb4be10f546bafbfc"
+    },
+    "data/records.zip": {
+      "bytes": 10247193,
+      "sha256": "8a240870c6dff5bef829e73d9078f3872734e8f43077727e138176b1ba5297ee"
+    },
+    "data/sources.json": {
+      "bytes": 388265,
+      "sha256": "2956db7ff629cc2303dd31d9c826edb5240f462b6a7614ebc55d27c3e333b442"
+    },
+    "index.html": {
+      "bytes": 698,
+      "sha256": "dc81e3383688b9768f34c302b42c211a4c0275b4102325efed457211e4d59f7b"
+    },
+    "js/analytics.js": {
+      "bytes": 149,
+      "sha256": "60d74ac08347cdc3ec0d00b2bed87d1123afcd9d8273b4ec7b116b852f626c91"
+    },
+    "js/app.bundle.js": {
+      "bytes": 1108208,
+      "sha256": "324a33aa66d2e704ffbd1b81b7265115fc393109aec61f4c0b07cc87f8cbafb5"
+    },
+    "js/loader.js": {
+      "bytes": 1848,
+      "sha256": "e4838e15e06708dcadfe60187ffaa92f83a760cfce73fee654126a642ee97558"
+    },
+    "js/tooltip.js": {
+      "bytes": 2710,
+      "sha256": "e77a5a5123fa934e9ccddf08875815fec5f7c7a4a0d89de013790d39f888b7d3"
+    },
+    "release/iPBL_app_standalone.html": {
+      "bytes": 15682683,
+      "sha256": "eb5c605c6254414ee859d691f6b14a71de28c9e4eaec044ed9763bea384d0a36"
+    },
+    "tools/build_standalone.py": {
+      "bytes": 2312,
+      "sha256": "e6d6ca8722d45f2a779bb30d671717d5cd177674bf4133bdb2f71403f67c3eda"
+    },
+    "tools/start_local.bat": {
+      "bytes": 215,
+      "sha256": "1adcc38eabab1ced96443d84e9808a865a9e18b15e6367f582f33f99b8dc53e1"
+    },
+    "tools/start_local.sh": {
+      "bytes": 115,
+      "sha256": "90e284fa1aeb94321aee6e33cd0f3d2a6cdb7fc22159743b1b875f70cd74322d"
+    }
+  },
+  "data_counts": {
+    "sources": 203,
+    "catalog": 4003,
+    "catalogTypes": 486,
+    "catalogFields": 62
+  },
+  "records_zip_bytes": 10247193
+}
