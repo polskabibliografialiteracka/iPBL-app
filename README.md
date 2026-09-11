@@ -182,9 +182,9 @@ Kod wygenerowany lub zmodyfikowany z pomocą AI był sprawdzany i testowany prze
 
 Projekt znajduje się na wczesnym etapie rozwoju. Numeracja wersji będzie aktualizowana wraz z wprowadzaniem kolejnych zmian i funkcji.
 
-## Zespół
+## Zespół twórców
 
-Aplikacja jest rozwijana przez **Zespół ds. przetwarzania danych Pracowni Bibliografii Bieżącej IBL PAN**.
+Aplikacja jest rozwijana przez **Zespół ds. przetwarzania danych Pracowni Bibliografii Bieżącej IBL PAN** ([Barbara Wachek](https://www.linkedin.com/in/barbara-wachek/), [Dariusz Perliński](https://www.linkedin.com/in/dariusz-perli%C5%84ski-a558b9145/)).
 
 Więcej informacji o projekcie i kolekcji iPBL można znaleźć na stronie [Polskiej Bibliografii Literackiej](https://pbl.ibl.waw.pl/).
 
