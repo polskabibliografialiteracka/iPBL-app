@@ -28,6 +28,12 @@ jobs:
           node --check js/app.bundle.js
           node --check js/search-utils.js
           node --check js/loader.js
+      - name: Instalacja środowiska testów przeglądarkowych
+        run: |
+          python -m pip install 'playwright==1.56.0'
+          python -m playwright install --with-deps chromium
+      - name: Test przeglądarkowy wersji modułowej
+        run: python processing/tests/smoke_browser.py
       - name: Publikacja raportu i HTML jako artefakt testowy
         uses: actions/upload-artifact@v4
         with:
