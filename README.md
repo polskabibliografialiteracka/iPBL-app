@@ -199,3 +199,18 @@ Kod aplikacji iPBL jest dostępny na licencji **MIT**.
 Dane iPBL są dostępne na licencji **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 Licencja CC BY 4.0 dotyczy danych iPBL i nie obejmuje treści zewnętrznych stron internetowych ani innych materiałów stron trzecich, do których odwołują się dane.
+
+
+## Przygotowywana wersja 0.4.0-rc1 — bezpieczna normalizacja danych
+
+Rozwój wersji testowej prowadzony jest w osobnej gałęzi. Przed dopuszczeniem zmian do `master` testujemy komplet 150 656 rekordów.
+
+- osobny katalog `processing/` z niezmienianymi oryginałami, normalizacją, testami i raportami;
+- automatyczna interpretacja bezpiecznych sekwencji BibTeX oraz list autorów;
+- normalizacja adresów i kategorii bez wymyślania dat i brakujących URL;
+- wyszukiwanie imię–nazwisko i nazwisko–imię;
+- wygenerowany raport `processing/reports/manual_review.csv` z trwałymi identyfikatorami spraw;
+- numer wersji w `config/app.json`, skrypt kontrolowanych poprawek do React bundle i generator samodzielnego HTML;
+- automatyczne testy integralności i GitHub Actions.
+
+Wykonanie: `python processing/build_all.py`. Szczegóły: [processing/README.md](processing/README.md). Wydanie produkcyjne pozostaje na dotychczasowej wersji do czasu zakończenia weryfikacji.

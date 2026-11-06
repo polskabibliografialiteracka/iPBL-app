@@ -1,0 +1,48 @@
+name: iPBL - normalizacja i testy
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - feature/normalizacja-danych-v0.4-rc1
+  pull_request:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Przygotowanie, testy i samodzielny HTML
+        run: python processing/build_all.py
+      - name: Sprawdzenie składni JavaScript
+        run: |
+          node --check js/app.bundle.js
+          node --check js/search-utils.js
+          node --check js/loader.js
+      - name: Publikacja raportu i HTML jako artefakt testowy
+        uses: actions/upload-artifact@v4
+        with:
+          name: ipbl-v0.4-kontrola
+          path: |
+            processing/reports/
+            release/iPBL_app_standalone.html
+          retention-days: 30
+      - name: Zapisz wygenerowane dane na gałęzi testowej
+        if: github.event_name == 'push' && github.ref_name == 'feature/normalizacja-danych-v0.4-rc1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add processing/raw/ js/original/ js/app.bundle.js data/ release/ MANIFEST.json processing/reports/
+          if ! git diff --cached --quiet; then
+            git commit -m "build: generated normalized data, reports and standalone release"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
