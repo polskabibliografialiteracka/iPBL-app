@@ -1,14 +1,18 @@
 {
   "description": "iPBL package manifest; raw snapshots excluded",
-  "version": "0.4.0-rc1",
+  "version": "0.4.0",
   "files": {
     ".github/workflows/verify-ipbl.yml": {
-      "bytes": 1686,
-      "sha256": "b14c7836a5c671d574ca1dc85138bf808418ecd4849e7b17a91125a3b1eeed87"
+      "bytes": 1983,
+      "sha256": "7a30b9e5b8423ccccdb7d202d94c858d57fe2ff458627f0c49d9018803076928"
+    },
+    "CHANGELOG.md": {
+      "bytes": 3277,
+      "sha256": "dae3bac0340674a74ce83cbb85b55e7561e5e7302b15efe87c62fd956fc6871b"
     },
     "README.md": {
-      "bytes": 9439,
-      "sha256": "7d65d8808e678bfd8303a660cd14124236ef7b9779b71a5df5bcbd9f4fcfbd32"
+      "bytes": 9592,
+      "sha256": "5d3968b7790b3a0c5b958177c2e93fa5a36618be4336a443504d9d1475ae2f1d"
     },
     "assets/iPBL_logo.png": {
       "bytes": 11547,
@@ -27,8 +31,8 @@
       "sha256": "d7e8f31cae4805ef9ea3af8999e8872cc0e3b9863282a1968e30c09031aaa9e2"
     },
     "config/app.json": {
-      "bytes": 125,
-      "sha256": "e0c857fd8e7cc7792e84dc451f8830d0b3dcafc83beb52e76c2d8dec56ce188f"
+      "bytes": 110,
+      "sha256": "93bde79258f57e0f2e49eac5b4aa2760a2d9090510d3649bb153a0062b8395a1"
     },
     "css/style.css": {
       "bytes": 27742,
@@ -122,6 +126,10 @@
       "bytes": 1511,
       "sha256": "4c3d5dfced9e1a9fef4bbff50e507c808b68cdcff1ff473eec8d42653010a221"
     },
+    "processing/tests/smoke_browser.py": {
+      "bytes": 3040,
+      "sha256": "cfe2a96719cb3c074ffc6eb6fca24d672ae3696d46eac1e2ebc34313250745b6"
+    },
     "processing/tests/test_integrity.py": {
       "bytes": 2299,
       "sha256": "d8b2efa80c0a9d59558e1cdd2a63de6f654333a175c3b052eec0e57975daa68b"
@@ -139,8 +147,8 @@
       "sha256": "410577959a1fb1bdc945e28d776d64f76b11104a42a90f7dc29334806dd2eaf9"
     },
     "release/iPBL_app_standalone.html": {
-      "bytes": 15671991,
-      "sha256": "f02e11cd2cbd1f995349f3d7bc2845776537e48f967f255a0dbdb861eb98e388"
+      "bytes": 15671976,
+      "sha256": "bcff9fadf55ce22263be9efc92542a017b11992f6b56af6f3f407f8cd221ee53"
     },
     "tools/build_standalone.py": {
       "bytes": 2289,
