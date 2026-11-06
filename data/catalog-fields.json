@@ -60,15 +60,7 @@
     "value": 6
   },
   {
-    "label": "teatr, literatura",
-    "value": 4
-  },
-  {
     "label": "ilustracja",
-    "value": 4
-  },
-  {
-    "label": "literatura, komiks",
     "value": 4
   },
   {
@@ -76,11 +68,15 @@
     "value": 4
   },
   {
-    "label": "literatura, film, kultura",
-    "value": 3
+    "label": "literatura, komiks",
+    "value": 4
   },
   {
-    "label": "kultura, literatura, teatr",
+    "label": "teatr, literatura",
+    "value": 4
+  },
+  {
+    "label": "film, literatura",
     "value": 3
   },
   {
@@ -88,11 +84,7 @@
     "value": 3
   },
   {
-    "label": "film, literatura",
-    "value": 3
-  },
-  {
-    "label": "literatura, fantastyka",
+    "label": "kultura, literatura, teatr",
     "value": 3
   },
   {
@@ -100,23 +92,15 @@
     "value": 3
   },
   {
+    "label": "literatura, fantastyka",
+    "value": 3
+  },
+  {
+    "label": "literatura, film, kultura",
+    "value": 3
+  },
+  {
     "label": "humanistyka cyfrowa",
-    "value": 2
-  },
-  {
-    "label": "twórczość w Internecie",
-    "value": 2
-  },
-  {
-    "label": "literatura, słuchowisko",
-    "value": 2
-  },
-  {
-    "label": "teatr, kultura",
-    "value": 2
-  },
-  {
-    "label": "teatr, film, kultura",
     "value": 2
   },
   {
@@ -124,107 +108,27 @@
     "value": 2
   },
   {
+    "label": "literatura, słuchowisko",
+    "value": 2
+  },
+  {
     "label": "None",
     "value": 2
   },
   {
-    "label": "teatr; literatura, literatura dla dzieci",
-    "value": 1
+    "label": "teatr, film, kultura",
+    "value": 2
   },
   {
-    "label": "literatura, książki",
-    "value": 1
+    "label": "teatr, kultura",
+    "value": 2
   },
   {
-    "label": "literatura, film, teatr, kultura",
-    "value": 1
-  },
-  {
-    "label": "literatura, słuchowiska",
-    "value": 1
-  },
-  {
-    "label": "kultura, teatr, film",
-    "value": 1
-  },
-  {
-    "label": "film, kultura",
-    "value": 1
-  },
-  {
-    "label": "literatura, twórczość w internecie",
-    "value": 1
-  },
-  {
-    "label": "kultura, literatura, literatura dla dzieci",
-    "value": 1
-  },
-  {
-    "label": "literatura, film, komiks",
-    "value": 1
-  },
-  {
-    "label": "literatura, komiks, film",
-    "value": 1
-  },
-  {
-    "label": "literatura, kultura, film",
-    "value": 1
-  },
-  {
-    "label": "komiksy",
-    "value": 1
-  },
-  {
-    "label": "literatura, filozofia",
-    "value": 1
-  },
-  {
-    "label": "teatr, literatura, film",
-    "value": 1
-  },
-  {
-    "label": "komiks, literatura",
-    "value": 1
-  },
-  {
-    "label": "literatura, teatr, slam",
-    "value": 1
-  },
-  {
-    "label": "twórczość w internecie",
-    "value": 1
+    "label": "twórczość w Internecie",
+    "value": 2
   },
   {
     "label": "biblioteki",
-    "value": 1
-  },
-  {
-    "label": "literatura, psychologia",
-    "value": 1
-  },
-  {
-    "label": "literatura, teatr, kultura",
-    "value": 1
-  },
-  {
-    "label": "lteratura",
-    "value": 1
-  },
-  {
-    "label": "literatura, piosenka",
-    "value": 1
-  },
-  {
-    "label": "literatura, teatr, kino",
-    "value": 1
-  },
-  {
-    "label": "literatura, nauka",
-    "value": 1
-  },
-  {
-    "label": "kultura, literatura, teatr, film",
     "value": 1
   },
   {
@@ -232,11 +136,7 @@
     "value": 1
   },
   {
-    "label": "literatura, film, teatr",
-    "value": 1
-  },
-  {
-    "label": "tear",
+    "label": "film, kultura",
     "value": 1
   },
   {
@@ -244,7 +144,107 @@
     "value": 1
   },
   {
+    "label": "komiks, literatura",
+    "value": 1
+  },
+  {
+    "label": "komiksy",
+    "value": 1
+  },
+  {
     "label": "kultura, komiks",
+    "value": 1
+  },
+  {
+    "label": "kultura, literatura, literatura dla dzieci",
+    "value": 1
+  },
+  {
+    "label": "kultura, literatura, teatr, film",
+    "value": 1
+  },
+  {
+    "label": "kultura, teatr, film",
+    "value": 1
+  },
+  {
+    "label": "literatura, film, komiks",
+    "value": 1
+  },
+  {
+    "label": "literatura, film, teatr",
+    "value": 1
+  },
+  {
+    "label": "literatura, film, teatr, kultura",
+    "value": 1
+  },
+  {
+    "label": "literatura, filozofia",
+    "value": 1
+  },
+  {
+    "label": "literatura, komiks, film",
+    "value": 1
+  },
+  {
+    "label": "literatura, książki",
+    "value": 1
+  },
+  {
+    "label": "literatura, kultura, film",
+    "value": 1
+  },
+  {
+    "label": "literatura, nauka",
+    "value": 1
+  },
+  {
+    "label": "literatura, piosenka",
+    "value": 1
+  },
+  {
+    "label": "literatura, psychologia",
+    "value": 1
+  },
+  {
+    "label": "literatura, słuchowiska",
+    "value": 1
+  },
+  {
+    "label": "literatura, teatr, kino",
+    "value": 1
+  },
+  {
+    "label": "literatura, teatr, kultura",
+    "value": 1
+  },
+  {
+    "label": "literatura, teatr, slam",
+    "value": 1
+  },
+  {
+    "label": "literatura, twórczość w internecie",
+    "value": 1
+  },
+  {
+    "label": "lteratura",
+    "value": 1
+  },
+  {
+    "label": "tear",
+    "value": 1
+  },
+  {
+    "label": "teatr, literatura, film",
+    "value": 1
+  },
+  {
+    "label": "teatr; literatura, literatura dla dzieci",
+    "value": 1
+  },
+  {
+    "label": "twórczość w internecie",
     "value": 1
   }
 ]

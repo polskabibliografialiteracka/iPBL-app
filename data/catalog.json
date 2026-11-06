@@ -2371,7 +2371,7 @@
   },
   {
     "name": "Literackie Skarby Świata Całego",
-    "url": "literackie-skarby.blogspot.com",
+    "url": "https://literackie-skarby.blogspot.com",
     "type": "blog recenzencki",
     "field": "literatura"
   },
@@ -3608,7 +3608,7 @@
   {
     "name": "Zaksiążkowane",
     "url": "https://www.youtube.com/@zaksiazkowane8428",
-    "type": "kanał czytelniczek (Youtube)",
+    "type": "kanał czytelniczek (YouTube)",
     "field": "literatura"
   },
   {
@@ -3805,7 +3805,7 @@
   },
   {
     "name": "Natalia Michałek",
-    "url": "www.youtube.com/@nataliamichaek9493",
+    "url": "https://www.youtube.com/@nataliamichaek9493",
     "type": "kanał czytelniczy (YouTube)",
     "field": "literatura"
   },
@@ -4010,13 +4010,13 @@
   {
     "name": "Dziaderski Dziennik Drewniaka i Domagały",
     "url": "https://www.youtube.com/@dededede_teatr",
-    "type": "kanał krytyków (Youtube)",
+    "type": "kanał krytyków (YouTube)",
     "field": "teatr"
   },
   {
     "name": "literatura",
     "url": "https://www.youtube.com/@najlepszaksiegarnia",
-    "type": "kanał księgarni (Youtube)",
+    "type": "kanał księgarni (YouTube)",
     "field": "literatura"
   },
   {
@@ -4819,13 +4819,13 @@
   },
   {
     "name": "Made by Caroline",
-    "url": "www.youtube.com/@madebycaroline1858",
+    "url": "https://www.youtube.com/@madebycaroline1858",
     "type": "kanał recenzencki (YouTube)",
     "field": "literatura"
   },
   {
     "name": "Miasto Atramentowych Słów",
-    "url": "www.youtube.com/@MiastoAtramentowychSow2106",
+    "url": "https://www.youtube.com/@MiastoAtramentowychSow2106",
     "type": "kanał recenzencki (YouTube)",
     "field": "literatura"
   },
@@ -4855,13 +4855,13 @@
   },
   {
     "name": "Paulina Piziorska",
-    "url": "www.youtube.com/@PaulinaPiziorska",
+    "url": "https://www.youtube.com/@PaulinaPiziorska",
     "type": "kanał recenzencki (YouTube)",
     "field": "literatura"
   },
   {
     "name": "Magiel książkowy",
-    "url": "www.youtube.com/@magielksiazkowy",
+    "url": "https://www.youtube.com/@magielksiazkowy",
     "type": "kanał recenzencki (YouTube)",
     "field": "literatura"
   },
@@ -4873,19 +4873,19 @@
   },
   {
     "name": "Zupełnie Inna Opowieść",
-    "url": "www.youtube.com/@zupelnieinnaopowiesc/",
+    "url": "https://www.youtube.com/@zupelnieinnaopowiesc/",
     "type": "kanał recenzencki (YouTube)",
     "field": "literatura"
   },
   {
     "name": "Buch czyli książka",
-    "url": "www.youtube.com/@buchczyliksiazka7673",
+    "url": "https://www.youtube.com/@buchczyliksiazka7673",
     "type": "kanał recenzencki (YouTube)",
     "field": "literatura"
   },
   {
     "name": "Filiżanka literatury",
-    "url": "www.youtube.com/@filizankaliteratury",
+    "url": "https://www.youtube.com/@filizankaliteratury",
     "type": "kanał recenzencki (YouTube)",
     "field": "literatura"
   },
@@ -7315,7 +7315,7 @@
   },
   {
     "name": "Pudełka zapałek",
-    "url": "www.instagram.com/pudelkazapalek",
+    "url": "https://www.instagram.com/pudelkazapalek",
     "type": "profil bloga (Instagram)",
     "field": "literatura"
   },
@@ -10441,7 +10441,7 @@
   },
   {
     "name": "Alfabet Wojtusika",
-    "url": "www.facebook.com/AlfabetWojtusika",
+    "url": "https://www.facebook.com/AlfabetWojtusika",
     "type": "profil podcastu (Facebook)",
     "field": "literatura"
   },
@@ -10741,7 +10741,7 @@
   },
   {
     "name": "Z hotelu na godziny (Mateusz Skrzyński)",
-    "url": "www.facebook.com/zhotelunagodziny",
+    "url": "https://www.facebook.com/zhotelunagodziny",
     "type": "profil poety (Facebook)",
     "field": "literatura"
   },
@@ -14017,7 +14017,7 @@
   },
   {
     "name": "Culture.pl",
-    "url": "www.culture.pl/pl",
+    "url": "https://www.culture.pl/pl",
     "type": "serwis",
     "field": "kultura"
   },
@@ -15415,7 +15415,7 @@
   },
   {
     "name": "Festiwal Literatury dla Dzieci",
-    "url": "fldd.pl",
+    "url": "https://fldd.pl",
     "type": "strona festiwalu",
     "field": "literatura, literatura dla dzieci"
   },
@@ -15427,7 +15427,7 @@
   },
   {
     "name": "Festiwal Literacki Znaczenia",
-    "url": "znaczenia.pl",
+    "url": "https://znaczenia.pl",
     "type": "strona festiwalu",
     "field": "literatura"
   },
@@ -15505,7 +15505,7 @@
   },
   {
     "name": "Hola Hola Literatura",
-    "url": "www.gnd.art.pl",
+    "url": "https://www.gnd.art.pl",
     "type": "strona festiwalu",
     "field": "literatura"
   },
@@ -15631,7 +15631,7 @@
   },
   {
     "name": "Festiwal Literatury Górskiej",
-    "url": "festiwalliteraturygorskiej.pl",
+    "url": "https://festiwalliteraturygorskiej.pl",
     "type": "strona festiwalu",
     "field": "literatura"
   },
@@ -18199,7 +18199,7 @@
   },
   {
     "name": "Gdyńska Nagroda Dramaturgiczna",
-    "url": "www.gnd.art.pl",
+    "url": "https://www.gnd.art.pl",
     "type": "strona nagrody",
     "field": "literatura, literatura dla dzieci"
   },
@@ -18421,7 +18421,7 @@
   },
   {
     "name": "Found in Translation",
-    "url": "Found in Translation - Instytut Książki",
+    "url": "",
     "type": "strona nagrody",
     "field": "literatura"
   },

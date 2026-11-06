@@ -36,11 +36,11 @@
     "value": 80
   },
   {
-    "label": "słuchowisko",
+    "label": "strona instytucji",
     "value": 74
   },
   {
-    "label": "strona instytucji",
+    "label": "słuchowisko",
     "value": 74
   },
   {
@@ -436,11 +436,11 @@
     "value": 6
   },
   {
-    "label": "profil tłumaczki (Facebook)",
+    "label": "profil twórczyni (Instagram)",
     "value": 6
   },
   {
-    "label": "profil twórczyni (Instagram)",
+    "label": "profil tłumaczki (Facebook)",
     "value": 6
   },
   {
@@ -585,6 +585,10 @@
   },
   {
     "label": "kanał biblioteki (YouTube)",
+    "value": 3
+  },
+  {
+    "label": "kanał księgarni (YouTube)",
     "value": 3
   },
   {
@@ -737,10 +741,6 @@
   },
   {
     "label": "kanał krytyka (YouTube)",
-    "value": 2
-  },
-  {
-    "label": "kanał księgarni (YouTube)",
     "value": 2
   },
   {
@@ -1060,7 +1060,7 @@
     "value": 1
   },
   {
-    "label": "kanał czytelniczek (Youtube)",
+    "label": "kanał czytelniczek (YouTube)",
     "value": 1
   },
   {
@@ -1104,11 +1104,7 @@
     "value": 1
   },
   {
-    "label": "kanał krytyków (Youtube)",
-    "value": 1
-  },
-  {
-    "label": "kanał księgarni (Youtube)",
+    "label": "kanał krytyków (YouTube)",
     "value": 1
   },
   {
@@ -1540,11 +1536,11 @@
     "value": 1
   },
   {
-    "label": "profil tłumaczki i badaczki (Facebook)",
+    "label": "profil twórc* (Facebook)",
     "value": 1
   },
   {
-    "label": "profil twórc* (Facebook)",
+    "label": "profil tłumaczki i badaczki (Facebook)",
     "value": 1
   },
   {
@@ -1609,14 +1605,6 @@
   },
   {
     "label": "serwis subskrypcyjny ebooków, audiobooków i słuchowisk",
-    "value": 1
-  },
-  {
-    "label": "słownik cyfrowy",
-    "value": 1
-  },
-  {
-    "label": "słownik online",
     "value": 1
   },
   {
@@ -1921,6 +1909,14 @@
   },
   {
     "label": "substack twórcy",
+    "value": 1
+  },
+  {
+    "label": "słownik cyfrowy",
+    "value": 1
+  },
+  {
+    "label": "słownik online",
     "value": 1
   },
   {

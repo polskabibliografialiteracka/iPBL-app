@@ -44,9 +44,9 @@ Dane zgromadzone w kolekcji iPBL można pobrać ze strony Europejskiej Bibliogra
 
 **[Pobierz / zobacz dane iPBL w ELB](https://literarybibliography.eu/en/projects/ipbl)**
 
-## Wersja 0.3 – zmiana struktury aplikacji
+## Wersja 0.3 – wcześniejsza zmiana struktury aplikacji
 
-Od wersji **0.3** aplikacja jest rozwijana w strukturze modułowej. Wcześniej kod, style, zasoby graficzne i duża część danych znajdowały się w jednym pliku HTML. Obecnie zostały rozdzielone na osobne katalogi i pliki, dzięki czemu repozytorium jest prostsze w utrzymaniu i łatwiej aktualizować dane bez ingerowania w cały kod aplikacji.
+Od wersji **0.3** aplikacja ma strukturę rozdzielającą dane i zasoby od skompilowanego kodu. Wcześniej kod, style, zasoby graficzne i duża część danych znajdowały się w jednym pliku HTML. Obecnie zostały rozdzielone na osobne katalogi i pliki, dzięki czemu repozytorium jest prostsze w utrzymaniu i łatwiej aktualizować dane bez ingerowania w cały kod aplikacji.
 
 Najważniejsze zmiany:
 
@@ -178,7 +178,7 @@ Kod wygenerowany lub zmodyfikowany z pomocą AI był sprawdzany i testowany prze
 
 ## Wersja
 
-**Aktualna wersja: 0.3**
+**Aktualna wersja: 0.4.0**
 
 Projekt znajduje się na wczesnym etapie rozwoju. Numeracja wersji będzie aktualizowana wraz z wprowadzaniem kolejnych zmian i funkcji.
 
@@ -199,3 +199,18 @@ Kod aplikacji iPBL jest dostępny na licencji **MIT**.
 Dane iPBL są dostępne na licencji **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 Licencja CC BY 4.0 dotyczy danych iPBL i nie obejmuje treści zewnętrznych stron internetowych ani innych materiałów stron trzecich, do których odwołują się dane.
+
+
+## Wersja 0.4.0 — automatyczna normalizacja danych
+
+Wersja 0.4.0 wprowadza osobny proces automatycznego przygotowania kopii danych do aplikacji. Oryginalne pliki bibliograficzne są zachowywane bez zmian; całość testujemy na 150 656 rekordach.
+
+- osobny katalog `processing/` z niezmienianymi oryginałami, normalizacją, testami i raportami;
+- automatyczna interpretacja bezpiecznych sekwencji BibTeX oraz list autorów;
+- normalizacja adresów i kategorii bez wymyślania dat i brakujących URL;
+- wyszukiwanie imię–nazwisko i nazwisko–imię;
+- wygenerowany raport `processing/reports/manual_review.csv` z trwałymi identyfikatorami spraw;
+- numer wersji w `config/app.json`, skrypt kontrolowanych poprawek do React bundle i generator samodzielnego HTML;
+- automatyczne testy integralności i GitHub Actions.
+
+Wykonanie: `python processing/build_all.py`. Szczegóły: [processing/README.md](processing/README.md). Rejestr zmian i ograniczeń znajduje się w [CHANGELOG.md](CHANGELOG.md). Testy danych i przeglądarkowe są wykonywane automatycznie przez GitHub Actions.
