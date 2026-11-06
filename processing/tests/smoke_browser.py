@@ -49,7 +49,7 @@ def main():
             assert link and link.endswith('daje-flow_15.html') and '\\' not in link,link
             for author in ['Agnieszka Kobroń','Kobroń Agnieszka']:
                 query.fill(author)
-                page.locator('tr').filter(has_text='Poczucie tego przejścia').last.wait_for(timeout=30000)
+                page.get_by_text('Rekordy 1–50 z 570',exact=False).wait_for(timeout=30000)
             query.fill('Sex, drugs & rock')
             page.locator('tr').filter(has_text="Sex, drugs & rock’n’roll").last.wait_for(timeout=30000)
             assert not errors,errors
