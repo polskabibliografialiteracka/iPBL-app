@@ -1302,7 +1302,7 @@
         "value": 7
       }
     ],
-    "authorsTotal": 54,
+    "authorsTotal": 52,
     "genresTotal": 5,
     "subjectsTotal": 468,
     "authors": [
@@ -1312,23 +1312,27 @@
       },
       {
         "label": "Piotr Bordzoł",
-        "value": 15
+        "value": 18
       },
       {
         "label": "Mariola Dorota Wilczak",
-        "value": 9
+        "value": 12
       },
       {
         "label": "Olga",
         "value": 7
       },
       {
-        "label": "Magdalena Jurewicz-Nowak",
+        "label": "Sylwia Pikula",
         "value": 4
       },
       {
-        "label": "Sylwia Pikula",
-        "value": 3
+        "label": "Przemysław Górecki",
+        "value": 4
+      },
+      {
+        "label": "Magdalena Jurewicz-Nowak",
+        "value": 4
       },
       {
         "label": "Justyna Gorzkowicz",
@@ -1336,6 +1340,10 @@
       },
       {
         "label": "Irena Fedorowicz",
+        "value": 2
+      },
+      {
+        "label": "Dawid Maria Osiński",
         "value": 2
       }
     ],
@@ -1423,41 +1431,49 @@
         "value": 236
       }
     ],
-    "authorsTotal": 148,
+    "authorsTotal": 134,
     "genresTotal": 13,
     "subjectsTotal": 16,
     "authors": [
       {
         "label": "Jakub Skurtys",
-        "value": 10
+        "value": 14
       },
       {
-        "label": "Maliszewski, Karol",
-        "value": 6
-      },
-      {
-        "label": "Pszoniak, Jakub",
-        "value": 6
+        "label": "Zadura, Bohdan",
+        "value": 11
       },
       {
         "label": "Byrska, Aleksandra",
-        "value": 6
+        "value": 9
       },
       {
-        "label": "Łuszcz, Piotr (Magik)",
-        "value": 5
+        "label": "Pszoniak, Jakub",
+        "value": 8
       },
       {
-        "label": "Rosiński, Julek",
-        "value": 5
+        "label": "Maliszewski, Karol",
+        "value": 7
       },
       {
         "label": "Krzywda, Maria",
-        "value": 5
+        "value": 7
       },
       {
-        "label": "Mokry, Marcin",
-        "value": 5
+        "label": "Kiljańska, Zofia",
+        "value": 7
+      },
+      {
+        "label": "Kulisz, Mirek",
+        "value": 7
+      },
+      {
+        "label": "Łobodziński, Filip",
+        "value": 7
+      },
+      {
+        "label": "Sawicka, Alicja",
+        "value": 7
       }
     ],
     "genres": [
@@ -3852,7 +3868,7 @@
     "yearFrom": "—",
     "yearTo": "—",
     "years": [],
-    "authorsTotal": 343,
+    "authorsTotal": 314,
     "genresTotal": 0,
     "subjectsTotal": 0,
     "authors": [
@@ -3861,11 +3877,19 @@
         "value": 106
       },
       {
+        "label": "w Krakowie, Uniwersytet Jagielloński",
+        "value": 30
+      },
+      {
         "label": "Wiktoria Tabak",
-        "value": 16
+        "value": 19
       },
       {
         "label": "Maciej Guzy",
+        "value": 17
+      },
+      {
+        "label": "Müller, Alicja",
         "value": 15
       },
       {
@@ -3877,15 +3901,15 @@
         "value": 14
       },
       {
+        "label": "Skrzypek, Agata",
+        "value": 13
+      },
+      {
         "label": "Katarzyna Niedurny",
         "value": 13
       },
       {
-        "label": "Skrzypek, Agata",
-        "value": 12
-      },
-      {
-        "label": "Bartosz Cudak",
+        "label": "Figzał-Janikowska, Magdalena",
         "value": 11
       }
     ],
@@ -4264,33 +4288,37 @@
         "value": 41
       }
     ],
-    "authorsTotal": 731,
+    "authorsTotal": 741,
     "genresTotal": 13,
     "subjectsTotal": 2224,
     "authors": [
       {
         "label": "Paweł Soszyński",
-        "value": 60
+        "value": 66
       },
       {
         "label": "Socha, Jakub",
         "value": 59
       },
       {
-        "label": "Piotr Morawski",
-        "value": 42
-      },
-      {
         "label": "Mrozek, Witold",
-        "value": 39
+        "value": 49
       },
       {
         "label": "Maciej Jakubowiak",
-        "value": 39
+        "value": 47
       },
       {
         "label": "Król, Zofia",
-        "value": 39
+        "value": 46
+      },
+      {
+        "label": "Piotr Morawski",
+        "value": 43
+      },
+      {
+        "label": "Katarzyna Niedurny",
+        "value": 40
       },
       {
         "label": "Woźniak, Maciej",
@@ -4299,6 +4327,10 @@
       {
         "label": "Monika Ochędowska",
         "value": 32
+      },
+      {
+        "label": "Adam Pluszka",
+        "value": 28
       }
     ],
     "genres": [
@@ -6051,21 +6083,25 @@
         "value": 13
       }
     ],
-    "authorsTotal": 121,
+    "authorsTotal": 120,
     "genresTotal": 0,
     "subjectsTotal": 0,
     "authors": [
       {
         "label": "Byrska, Aleksandra",
-        "value": 12
+        "value": 14
       },
       {
         "label": "Muca, Klaudia",
-        "value": 9
+        "value": 10
       },
       {
         "label": "Pietrzak, Wit",
         "value": 7
+      },
+      {
+        "label": "Fiedorczuk, Julia",
+        "value": 4
       },
       {
         "label": "Brzostek, Dariusz",
@@ -6080,11 +6116,15 @@
         "value": 4
       },
       {
-        "label": "Fiedorczuk, Julia",
+        "label": "Piętniewicz, Michał",
         "value": 3
       },
       {
-        "label": "Piętniewicz, Michał",
+        "label": "Prokopowicz, Elżbieta",
+        "value": 3
+      },
+      {
+        "label": "Janik, Jakub",
         "value": 3
       }
     ],
@@ -9311,7 +9351,7 @@
       },
       {
         "label": "Kieżun, Piotr",
-        "value": 169
+        "value": 170
       },
       {
         "label": "Paweł Majewski",
@@ -9335,7 +9375,15 @@
       },
       {
         "label": "Góra, Sylwia",
-        "value": 26
+        "value": 27
+      },
+      {
+        "label": "Engelking, Wojciech",
+        "value": 22
+      },
+      {
+        "label": "Mik, Anna",
+        "value": 22
       }
     ],
     "genres": [],
@@ -10330,7 +10378,7 @@
         "value": 33
       }
     ],
-    "authorsTotal": 488,
+    "authorsTotal": 487,
     "genresTotal": 7,
     "subjectsTotal": 56,
     "authors": [
@@ -10364,6 +10412,14 @@
       },
       {
         "label": "Piotr Mitzner",
+        "value": 6
+      },
+      {
+        "label": "Bawołek, Waldemar",
+        "value": 6
+      },
+      {
+        "label": "Środa, Zuzanna",
         "value": 6
       }
     ],
@@ -13460,7 +13516,7 @@
     "yearFrom": "—",
     "yearTo": "—",
     "years": [],
-    "authorsTotal": 73,
+    "authorsTotal": 77,
     "genresTotal": 0,
     "subjectsTotal": 0,
     "authors": [
@@ -13473,19 +13529,19 @@
         "value": 4
       },
       {
-        "label": "Tomasz",
+        "label": "Piotr Sobolczyk",
         "value": 3
       },
       {
         "label": "Ostaszewski, Robert",
-        "value": 2
+        "value": 3
+      },
+      {
+        "label": "Tomasz",
+        "value": 3
       },
       {
         "label": "Joanna",
-        "value": 2
-      },
-      {
-        "label": "Piotr Sobolczyk",
         "value": 2
       },
       {
@@ -13494,6 +13550,14 @@
       },
       {
         "label": "Eliza Kącka",
+        "value": 2
+      },
+      {
+        "label": "Ligęza, Wojciech",
+        "value": 2
+      },
+      {
+        "label": "Małochleb, Paulina",
         "value": 2
       }
     ],
@@ -13777,13 +13841,13 @@
         "value": 325
       }
     ],
-    "authorsTotal": 1149,
+    "authorsTotal": 1080,
     "genresTotal": 0,
     "subjectsTotal": 2264,
     "authors": [
       {
         "label": "NNCT, Redakcja",
-        "value": 427
+        "value": 429
       },
       {
         "label": "Cielecki, Marcin",
@@ -13791,11 +13855,19 @@
       },
       {
         "label": "Chmielewski, Paweł",
-        "value": 56
+        "value": 58
+      },
+      {
+        "label": "Leszkiewicz, Adam",
+        "value": 54
       },
       {
         "label": "Żółtowski, Dariusz",
         "value": 52
+      },
+      {
+        "label": "Patryk Kosenda",
+        "value": 49
       },
       {
         "label": "Woźniak, Maciej D.",
@@ -13803,15 +13875,15 @@
       },
       {
         "label": "Chmielewski, Wojciech",
-        "value": 40
+        "value": 41
+      },
+      {
+        "label": "Siwiec, Bartłomiej",
+        "value": 41
       },
       {
         "label": "Chlewiński, Tomasz",
-        "value": 38
-      },
-      {
-        "label": "Chojnowski, Zbigniew",
-        "value": 34
+        "value": 39
       }
     ],
     "genres": [],
@@ -18200,12 +18272,16 @@
     "yearFrom": "—",
     "yearTo": "—",
     "years": [],
-    "authorsTotal": 249,
+    "authorsTotal": 246,
     "genresTotal": 0,
     "subjectsTotal": 14,
     "authors": [
       {
         "label": "Michał Mytnik",
+        "value": 11
+      },
+      {
+        "label": "Patryk Kosenda",
         "value": 9
       },
       {
@@ -18217,23 +18293,27 @@
         "value": 7
       },
       {
+        "label": "Matwiejczuk, Filip",
+        "value": 6
+      },
+      {
+        "label": "Kawalec, Kamil",
+        "value": 6
+      },
+      {
+        "label": "Mateusz Górniak",
+        "value": 6
+      },
+      {
         "label": "Jabłońska, Agata",
         "value": 5
       },
       {
-        "label": "Kawalec, Kamil",
+        "label": "Paweł Harlender",
         "value": 5
       },
       {
-        "label": "Mateusz Górniak",
-        "value": 5
-      },
-      {
-        "label": "Marcin Hanuszkiewicz",
-        "value": 5
-      },
-      {
-        "label": "Słota, Maciej",
+        "label": "Marcin Podlaski",
         "value": 5
       }
     ],
@@ -19559,6 +19639,14 @@
       },
       {
         "label": "Michalina Cendrowska",
+        "value": 4
+      },
+      {
+        "label": "Adrian Krysiak",
+        "value": 4
+      },
+      {
+        "label": "Anna Dwojnych",
         "value": 4
       }
     ],
@@ -21251,7 +21339,7 @@
         "value": 37
       }
     ],
-    "authorsTotal": 278,
+    "authorsTotal": 280,
     "genresTotal": 11,
     "subjectsTotal": 80,
     "authors": [
@@ -21285,6 +21373,14 @@
       },
       {
         "label": "Sęczyk, Jakub",
+        "value": 4
+      },
+      {
+        "label": "Kamil Figas",
+        "value": 4
+      },
+      {
+        "label": "Kawalec, Kamil",
         "value": 4
       }
     ],

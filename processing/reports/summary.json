@@ -1,0 +1,40 @@
+{
+  "source_sha256": {
+    "records.original.zip": "8a240870c6dff5bef829e73d9078f3872734e8f43077727e138176b1ba5297ee",
+    "catalog.original.json": "51142122a5a3ef9d5ffeb4a59abe62ddd22678f9bf84d3edb4be10f546bafbfc",
+    "sources.original.json": "2956db7ff629cc2303dd31d9c826edb5240f462b6a7614ebc55d27c3e333b442"
+  },
+  "output_sha256": {
+    "records.zip": "860aaf378226a0ffd74176ab0d0d8780032a095842ee7b35dea470fa5957aa22",
+    "catalog.json": "441e4d28a7bd1b62e8d04663a01226a8f7b53e10bc3b2cb69abc79e50928b1f7",
+    "sources.json": "43e3913a42e2cb87ecb1ed074cb8af025f09a09c4ca3eadc1fb9b9b35f452835",
+    "catalog-types.json": "abca32f66ab02cea072c581db6529a9a253667dd34d3737a1b4789b29c333e28",
+    "catalog-fields.json": "1c601602e498522836fad95455865045177337bd5121986d1760e52197b27abe"
+  },
+  "counts": {
+    "bib_files": 203,
+    "catalog_added_https": 18,
+    "catalog_invalid_url": 1,
+    "catalog_items": 4003,
+    "catalog_normalized_type": 3,
+    "changed_fields": 32563,
+    "duplicate_catalog_url_groups": 5,
+    "escaped_abstract": 70,
+    "escaped_author": 788,
+    "escaped_keywords": 982,
+    "escaped_number": 403,
+    "escaped_title": 948,
+    "escaped_url": 28619,
+    "invalid_url_fields_cleaned": 4,
+    "manual_review_items": 205,
+    "record_total": 150656,
+    "sources_author_aggregates_updated": 12,
+    "split_author_fields": 751,
+    "suspicious_years": 1
+  },
+  "integrity": {
+    "record_ids_preserved": true,
+    "total_records": 150656,
+    "original_files_unchanged": true
+  }
+}
